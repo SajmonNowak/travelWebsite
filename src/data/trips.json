@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/India",
+        "alt": "India",
+        "name": "Taj Mahal, India",
+        "button": "View More"
+    },
+    {
+        "img": "../assets/images/Indonesia",
+        "alt": "Bali",
+        "name": "Bali, Indonesia",
+        "button": "View More"
+    },
+    {
+        "img": "../assets/images/Turkey",
+        "alt": "Cappadocia",
+        "name": "Capadoccia, Turkey",
+        "button": "View More"
+    },
+    {
+        "img": "../assets/images/Jordan",
+        "alt": "Petra",
+        "name": "Petra, Jordan",
+        "button": "View More"
+    }
+]
