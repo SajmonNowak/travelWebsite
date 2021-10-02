@@ -5,7 +5,7 @@ import { GoThreeBars } from "react-icons/go";
 export const Nav = styled.nav`
   position: relative;
   background: transparent;
-  width: 100vw;
+  width: 100%;
   height: 80px;
   padding: 0.5rem;
   font-size: 20px;
