@@ -1,24 +1,24 @@
 [
     {
-        "img": "../assets/images/India",
+        "img": "../assets/images/India.jpg",
         "alt": "India",
         "name": "Taj Mahal, India",
         "button": "View More"
     },
     {
-        "img": "../assets/images/Indonesia",
+        "img": "../assets/images/Indonesia.jpg",
         "alt": "Bali",
         "name": "Bali, Indonesia",
         "button": "View More"
     },
     {
-        "img": "../assets/images/Turkey",
+        "img": "../assets/images/Turkey.jpg",
         "alt": "Cappadocia",
         "name": "Capadoccia, Turkey",
         "button": "View More"
     },
     {
-        "img": "../assets/images/Jordan",
+        "img": "../assets/images/Jordan.jpg",
         "alt": "Petra",
         "name": "Petra, Jordan",
         "button": "View More"
