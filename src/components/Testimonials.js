@@ -1,5 +1,5 @@
 import { useStaticQuery, graphql } from "gatsby";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import { getImage } from "gatsby-plugin-image";
 import React from "react";
 import {
     CheckmarkIcon,
@@ -37,7 +37,7 @@ const getImages = () => {
     data.allFile.edges.forEach((item, index) => {
         let tripImage = getImage(item.node.childImageSharp.gatsbyImageData);
         imgArray.push(
-            <Image image={tripImage} />
+            <Image image={tripImage} alt="TestimonialImage"/>
         )
     })
 

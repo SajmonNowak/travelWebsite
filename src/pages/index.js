@@ -1,6 +1,7 @@
 import * as React from "react"
 import Hero from "../components/Hero"
 import Layout from "../components/Layout"
+import Stats from "../components/Stats"
 import Testimonials from "../components/Testimonials"
 import Trips from "../components/Trips"
 
@@ -11,6 +12,7 @@ const IndexPage = () => {
       <Hero />
       <Trips />
       <Testimonials/>
+      <Stats/>
     </Layout>
   )
 }
