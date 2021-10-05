@@ -4,12 +4,12 @@ import {IoMdCheckmarkCircleOutline} from "react-icons/io"
 import {FaRegLightbulb} from "react-icons/fa"
 
 export const TestimonialContainer = styled.div`
-  min-height: 100vh;
   max-width: 1440px;
   width: 100%;
   background: #fcfcfc;
   margin: auto;
   padding: 30px;
+  margin-bottom: 15vh;
 `;
 
 export const ContentWrapper = styled.div`

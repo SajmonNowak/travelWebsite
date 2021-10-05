@@ -37,7 +37,7 @@ const getImages = () => {
     data.allFile.edges.forEach((item, index) => {
         let tripImage = getImage(item.node.childImageSharp.gatsbyImageData);
         imgArray.push(
-            <Image image={tripImage} alt="TestimonialImage"/>
+            <Image key={index} image={tripImage} alt="TestimonialImage"/>
         )
     })
 

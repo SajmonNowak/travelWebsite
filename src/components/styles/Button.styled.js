@@ -14,6 +14,7 @@ export const Button = styled(Link)`
   text-decoration: none;
   transition: 0.3s !important;
   border-radius: ${({ round }) => (round ? "50px" : "none")};
+  text-align: center;
 
   &:hover {
     background: ${({ primary }) => (primary ? "#077BF1" : "#F26A2E")};

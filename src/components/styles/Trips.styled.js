@@ -3,10 +3,9 @@ import { GatsbyImage } from "gatsby-plugin-image";
 import { ImLocation } from "react-icons/im";
 
 export const ProductsContainer = styled.div`
-  min-height: 100vh;
   max-width: 1440px;
   padding: 50px 0px;
-  margin: auto;
+  margin: 50px auto 20vh auto;
 `;
 
 export const ProductsHeading = styled.div`
