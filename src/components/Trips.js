@@ -47,7 +47,7 @@ const Trips = () => {
               <LocationIcon/>
               <TripTitle>{trip.node.name}</TripTitle>
             </TextWrap>
-            <Button to="/trips" primary="true" round="true" css={`position: absolute; bottom:20px; font-size: 14px;`}>View more</Button>
+            <Button to="" primary="true" round="true" css={`position: absolute; bottom:20px; font-size: 14px;`}>View more</Button>
           </TripInfo>
         </TripCard>
       );
